@@ -1,7 +1,7 @@
 package Practice_Programs;  
 import java.util.Scanner;
 
-public class Swap_num {  
+public class swap{  
 	
 	public static void main(String[]args) {
 		int x,y,temp;
